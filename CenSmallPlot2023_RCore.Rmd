@@ -10,8 +10,9 @@ library(dplyr)
 library(openxlsx)
 library(tidyverse)
 
+Care
 
-setwd("D:/Tree Census/R-project/")
+setwd("D:/Tree Census/R-project/") 
 rm(list=ls())
 ```
 
