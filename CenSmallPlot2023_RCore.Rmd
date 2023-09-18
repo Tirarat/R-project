@@ -10,9 +10,9 @@ library(dplyr)
 library(openxlsx)
 library(tidyverse)
 
-Care
+#Care-test
 
-setwd("D:/Tree Census/R-project/") 
+setwd("/Users/kitvadon2532/Documents/GitHub") 
 rm(list=ls())
 ```
 
